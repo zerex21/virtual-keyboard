@@ -1,1 +1,1 @@
-import keys from '/virtual-keyboard/js/lang.js'
+import keys from './js/lang'
