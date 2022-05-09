@@ -1,6 +1,6 @@
 import {
   renderEnBoard,
-} from '/virtual-keyboard/js/keyboard.js';
+} from './js/keyboard.js';
 
 
 const keys = document.querySelectorAll('.key');
