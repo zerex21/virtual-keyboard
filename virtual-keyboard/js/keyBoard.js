@@ -1,4 +1,4 @@
-function renderEnBoard(type) {
+/* function renderEnBoard(type) {
   return (` 
     <textarea name="inputText" id="textArea" cols="106" rows="10" inputmode="text"></textarea>
     <div class="cable">
@@ -263,3 +263,4 @@ body.innerHTML = renderEnBoard(getPlatform());
 export {
   renderEnBoard,
 };
+ */
